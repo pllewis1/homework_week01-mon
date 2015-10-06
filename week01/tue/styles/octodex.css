@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+.cat{
+  width: 33%;
+
+
+}
+
+.cat-img {
+  width: 100%;
+}
+.byline {
+  display: inline-block;
+}
+.byline img {}

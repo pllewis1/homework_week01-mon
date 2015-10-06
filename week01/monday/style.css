@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: 'Helvetica', sans-serif;
+}
+main {
+  overflow: auto;
+  max-width: 900px
+  width: 100%
+  margin: 0 auto;
+}
+  h2 {
+  color: green;
+}
+.masthead {
+  background: #EDEDED;
+  padding: 15px;
+  width: 80%;
+}
+.articles {
+  wid
+}
+.masthead h1 {
+  margin: 0;
+}
+
+.sidebar {
+  float:left;
+}
